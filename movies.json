@@ -1,0 +1,242 @@
+{
+    "Inception": {
+        "title": "Inception",
+        "genre": "Sci-Fi",
+        "director": "Christopher Nolan",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+        "nominees": 8,
+        "awards": 4,
+        "industry": 5,
+        "base_rating": 8.8
+    },
+    "The Dark Knight": {
+        "title": "The Dark Knight",
+        "genre": "Action",
+        "director": "Christopher Nolan",
+        "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "nominees": 8,
+        "awards": 2,
+        "industry": 4,
+        "base_rating": 9.0
+    },
+    "Interstellar": {
+        "title": "Interstellar",
+        "genre": "Sci-Fi",
+        "director": "Christopher Nolan",
+        "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+        "nominees": 5,
+        "awards": 1,
+        "industry": 4,
+        "base_rating": 8.6
+    },
+    "The Matrix": {
+        "title": "The Matrix",
+        "genre": "Sci-Fi",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+        "nominees": 4,
+        "awards": 2,
+        "industry": 4,
+        "base_rating": 8.7
+    },
+    "Forrest Gump": {
+        "title": "Forrest Gump",
+        "genre": "Drama",
+        "director": "Robert Zemeckis",
+        "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+        "nominees": 13,
+        "awards": 6,
+        "industry": 4,
+        "base_rating": 8.8
+    },
+    "The Shawshank Redemption": {
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "director": "Frank Darabont",
+        "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "nominees": 7,
+        "awards": 2,
+        "industry": 3,
+        "base_rating": 9.3
+    },
+    "Pulp Fiction": {
+        "title": "Pulp Fiction",
+        "genre": "Crime",
+        "director": "Quentin Tarantino",
+        "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+        "nominees": 7,
+        "awards": 1,
+        "industry": 3,
+        "base_rating": 8.9
+    },
+    "Fight Club": {
+        "title": "Fight Club",
+        "genre": "Drama",
+        "director": "David Fincher",
+        "actors": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+        "nominees": 3,
+        "awards": 1,
+        "industry": 3,
+        "base_rating": 8.8
+    },
+    "Goodfellas": {
+        "title": "Goodfellas",
+        "genre": "Crime",
+        "director": "Martin Scorsese",
+        "actors": ["Robert De Niro", "Ray Liotta", "Joe Pesci"],
+        "nominees": 6,
+        "awards": 1,
+        "industry": 3,
+        "base_rating": 8.7
+    },
+    "Gladiator": {
+        "title": "Gladiator",
+        "genre": "Action",
+        "director": "Ridley Scott",
+        "actors": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+        "nominees": 5,
+        "awards": 5,
+        "industry": 4,
+        "base_rating": 8.5
+    },
+    "Titanic": {
+        "title": "Titanic",
+        "genre": "Romance",
+        "director": "James Cameron",
+        "actors": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+        "nominees": 14,
+        "awards": 11,
+        "industry": 5,
+        "base_rating": 8.8
+    },
+    "Inglourious Basterds": {
+        "title": "Inglourious Basterds",
+        "genre": "War",
+        "director": "Quentin Tarantino",
+        "actors": ["Brad Pitt", "Diane Kruger", "Eli Roth"],
+        "nominees": 8,
+        "awards": 1,
+        "industry": 3,
+        "base_rating": 8.3
+    },
+    "The Godfather": {
+        "title": "The Godfather",
+        "genre": "Crime",
+        "director": "Francis Ford Coppola",
+        "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+        "nominees": 10,
+        "awards": 6,
+        "industry": 4,
+        "base_rating": 9.2
+    },
+    "The Godfather: Part II": {
+        "title": "The Godfather: Part II",
+        "genre": "Crime",
+        "director": "Francis Ford Coppola",
+        "actors": ["Al Pacino", "Robert De Niro", "Robert Duvall"],
+        "nominees": 11,
+        "awards": 5,
+        "industry": 4,
+        "base_rating": 9.0
+    },
+    "The Silence of the Lambs": {
+        "title": "The Silence of the Lambs",
+        "genre": "Crime",
+        "director": "Jonathan Demme",
+        "actors": ["Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney"],
+        "nominees": 7,
+        "awards": 5,
+        "industry": 3,
+        "base_rating": 8.6
+    },
+    "The Departed": {
+        "title": "The Departed",
+        "genre": "Crime",
+        "director": "Martin Scorsese",
+        "actors": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"],
+        "nominees": 5,
+        "awards": 4,
+        "industry": 3,
+        "base_rating": 8.5
+    },
+    "Saving Private Ryan": {
+        "title": "Saving Private Ryan",
+        "genre": "War",
+        "director": "Steven Spielberg",
+        "actors": ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+        "nominees": 11,
+        "awards": 5,
+        "industry": 4,
+        "base_rating": 8.6
+    },
+    "Schindler's List": {
+        "title": "Schindler's List",
+        "genre": "War",
+        "director": "Steven Spielberg",
+        "actors": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+        "nominees": 12,
+        "awards": 7,
+        "industry": 4,
+        "base_rating": 8.9
+    },
+    "The Green Mile": {
+        "title": "The Green Mile",
+        "genre": "Drama",
+        "director": "Frank Darabont",
+        "actors": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+        "nominees": 4,
+        "awards": 1,
+        "industry": 3,
+        "base_rating": 8.6
+    },
+    "American History X": {
+        "title": "American History X",
+        "genre": "Drama",
+        "director": "Tony Kaye",
+        "actors": ["Edward Norton", "Edward Furlong", "Beverly D'Angelo"],
+        "nominees": 3,
+        "awards": 1,
+        "industry": 2,
+        "base_rating": 8.5
+    },
+    "The Pianist": {
+        "title": "The Pianist",
+        "genre": "Biography",
+        "director": "Roman Polanski",
+        "actors": ["Adrien Brody", "Thomas Kretschmann", "Frank Finlay"],
+        "nominees": 7,
+        "awards": 3,
+        "industry": 3,
+        "base_rating": 8.5
+    },
+    "Shutter Island": {
+        "title": "Shutter Island",
+        "genre": "Mystery",
+        "director": "Martin Scorsese",
+        "actors": ["Leonardo DiCaprio", "Mark Ruffalo", "Ben Kingsley"],
+        "nominees": 4,
+        "awards": 1,
+        "industry": 3,
+        "base_rating": 8.2
+    },
+    "Django Unchained": {
+        "title": "Django Unchained",
+        "genre": "Western",
+        "director": "Quentin Tarantino",
+        "actors": ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio"],
+        "nominees": 5,
+        "awards": 2,
+        "industry": 3,
+        "base_rating": 8.4
+    },
+    "The Usual Suspects": {
+        "title": "The Usual Suspects",
+        "genre": "Crime",
+        "director": "Bryan Singer",
+        "actors": ["Kevin Spacey", "Gabriel Byrne", "Chazz Palminteri"],
+        "nominees": 2,
+        "awards": 2,
+        "industry": 2,
+        "base_rating": 8.5
+    }
+}
